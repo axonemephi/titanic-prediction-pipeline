@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated files
+predictions.db
+pipeline.log
+survival_model.joblib
+
+# OS-specific files
+.DS_Store

@@ -1,0 +1,5 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1005,3,"Mr. John Smith",male,25,0,0,A/5 21171,7.2250,,C
+1006,1,"Mrs. Jane Doe",female,44,1,0,PC 17599,71.2833,C85,S
+1007,2,"Master Peter Pan",male,8,,1,237736,21.0750,,S
+1008,3,"Miss Annabelle",female,27,1,1,349909,10.4625,,Q
